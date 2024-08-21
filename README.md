@@ -1,5 +1,6 @@
-![My Image](https://github.com/user-attachments/assets/76522555-55ae-45e7-97fb-52d5ce31a382)
-2년차 롯데팬 <br/>
+
+<h1><b>2년차 롯데팬</b></h1> <br/>
+![My Image](https://github.com/user-attachments/assets/76522555-55ae-45e7-97fb-52d5ce31a382
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangyeol0315)](https://solved.ac/hangyeol0315/)
 
 <br/><br/>
