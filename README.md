@@ -1,4 +1,4 @@
-![Lotte Giants Logo](https://search.pstatic.net/common?type=o&size=150x112&expire=1&refresh=true&quality=95&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F146%2F48%2F40%2F94%2F146_2484094_team_image_url_1678771962813.png) ## 롯데팬 2년차
+![Lotte Giants Logo](https://simg.donga.com/ugc/MLBPARK/Board/16/84/32/56/16843256688820.jpeg) 롯데팬 2년차
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangyeol0315)](https://solved.ac/hangyeol0315/)
 <!--
 **Hgyeol/Hgyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
