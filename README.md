@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangyeol0315)](https://solved.ac/hangyeol0315/)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunwoooo&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hgyeol&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            />
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgyeol&show_icons=true&theme=radical)-->
 
