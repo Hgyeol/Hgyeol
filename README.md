@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangyeol0315)](https://solved.ac/hangyeol0315/)
 <br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hgyeol&layout=compact)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgyeol&show_icons=true&theme=radical)-->
 
 <br/><br/>
