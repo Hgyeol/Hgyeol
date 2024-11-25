@@ -7,7 +7,6 @@
 <br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hgyeol&layout=compact)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgyeol&show_icons=true&theme=radical)-->
-
 <br/><br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
